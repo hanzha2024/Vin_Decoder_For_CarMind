@@ -1,0 +1,3402 @@
+{
+  "KL47LBE26RB171794": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Buick",
+        "source": "BUICK",
+        "match": true,
+        "standardized_local": "buick",
+        "standardized_source": "buick",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2024",
+        "source": "2024",
+        "match": true,
+        "standardized_local": "2024",
+        "standardized_source": "2024",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Envista Sport Touring FWD",
+        "source": "Envista",
+        "match": true,
+        "standardized_local": "envista sport touring fwd",
+        "standardized_source": "envista",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "Ecotec 1.2L I-3 gasoline direct injection, DOHC, variable valve",
+        "source": "Displacement: 1.2L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "ecotec 1.2l i-3 gasoline direct injection dohc variable valve",
+        "standardized_source": "displacement 1.2l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "1.2L",
+          "api_displacement": "1.2L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：1.2L ≈ 1.2L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "1.2L",
+      "api_displacement": "1.2L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：1.2L ≈ 1.2L）"
+    }
+  },
+  "5GAERBKW8LJ183012": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Buick",
+        "source": "BUICK",
+        "match": true,
+        "standardized_local": "buick",
+        "standardized_source": "buick",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2020",
+        "source": "2020",
+        "match": true,
+        "standardized_local": "2020",
+        "standardized_source": "2020",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Enclave Essence",
+        "source": "Enclave",
+        "match": true,
+        "standardized_local": "enclave essence",
+        "standardized_source": "enclave",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.6L V6 24V GDI DOHC gasoline",
+        "source": "Displacement: 3.6L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.6l v6 24v gdi dohc gasoline",
+        "standardized_source": "displacement 3.6l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.6L",
+          "api_displacement": "3.6L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.6L ≈ 3.6L）"
+        }
+      },
+      "Transmission": {
+        "local": "9-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "9-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.6L",
+      "api_displacement": "3.6L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.6L ≈ 3.6L）"
+    }
+  },
+  "LRBFX3SX4KD124882": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Buick",
+        "source": "BUICK",
+        "match": true,
+        "standardized_local": "buick",
+        "standardized_source": "buick",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2019",
+        "source": "2019",
+        "match": true,
+        "standardized_local": "2019",
+        "standardized_source": "2019",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Envision Premium I",
+        "source": "Envision",
+        "match": true,
+        "standardized_local": "envision premium i",
+        "standardized_source": "envision",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "ECOTEC 2.0L I-4 gasoline direct injection, DOHC, variable valve control",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "ecotec 2.0l i-4 gasoline direct injection dohc variable valve control",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "9-Speed Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "9-speed automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "LRBFXFSX0HD164385": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Buick",
+        "source": "BUICK",
+        "match": true,
+        "standardized_local": "buick",
+        "standardized_source": "buick",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2017",
+        "source": "2017",
+        "match": true,
+        "standardized_local": "2017",
+        "standardized_source": "2017",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Envision Premium II",
+        "source": "Envision",
+        "match": true,
+        "standardized_local": "envision premium ii",
+        "standardized_source": "envision",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "ECOTEC 2.0L I-4 gasoline direct injection, DOHC, variable valve control",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "ecotec 2.0l i-4 gasoline direct injection dohc variable valve control",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "2G4WC5322513525025": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Buick",
+        "source": "BUICK",
+        "match": true,
+        "standardized_local": "buick",
+        "standardized_source": "buick",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2005",
+        "source": "2005",
+        "match": true,
+        "standardized_local": "2005",
+        "standardized_source": "2005",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "LaCrosse CX",
+        "source": "LaCrosse",
+        "match": true,
+        "standardized_local": "lacrosse cx",
+        "standardized_source": "lacrosse",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.8L V-6 regular unleaded gasoline, engine with 200HP",
+        "source": "Displacement: 3.8L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.8l v-6 regular unleaded gasoline engine with 200hp",
+        "standardized_source": "displacement 3.8l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.8L",
+          "api_displacement": "3.8L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.8L ≈ 3.8L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.8L",
+      "api_displacement": "3.8L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.8L ≈ 3.8L）"
+    }
+  },
+  "2T3BFREV1FW235379": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2015",
+        "source": "2015",
+        "match": true,
+        "standardized_local": "2015",
+        "standardized_source": "2015",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "RAV4 LE",
+        "source": "RAV4",
+        "match": true,
+        "standardized_local": "rav4 le",
+        "standardized_source": "rav4",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.5L I-4 DOHC, VVT-i variable valve control, regular unleaded gasoline",
+        "source": "Displacement: 2.5L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.5l i-4 dohc vvt-i variable valve control regular unleaded gasoline",
+        "standardized_source": "displacement 2.5l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.5L",
+          "api_displacement": "2.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.5L ≈ 2.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.5L",
+      "api_displacement": "2.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.5L ≈ 2.5L）"
+    }
+  },
+  "5TFCZ5AN0KX210795": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2019",
+        "source": "2019",
+        "match": true,
+        "standardized_local": "2019",
+        "standardized_source": "2019",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Tacoma TRD Pro",
+        "source": "Tacoma",
+        "match": true,
+        "standardized_local": "tacoma trd pro",
+        "standardized_source": "tacoma",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.5L V-6 port/direct injection, DOHC, variable valve control, regular unleaded gasoline",
+        "source": "Displacement: 3.5L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.5l v-6 port/direct injection dohc variable valve control regular unleaded gasoline",
+        "standardized_source": "displacement 3.5l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.5L",
+          "api_displacement": "3.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.5L",
+      "api_displacement": "3.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+    }
+  },
+  "3TYLC5LN7RT014758": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2024",
+        "source": "2024",
+        "match": true,
+        "standardized_local": "2024",
+        "standardized_source": "2024",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Tacoma TRD Sport",
+        "source": "Tacoma",
+        "match": true,
+        "standardized_local": "tacoma trd sport",
+        "standardized_source": "tacoma",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "I-FORCE MAX 2.4L I-4 port/direct injection, DOHC, variable valve gasoline",
+        "source": "Displacement: 2.4L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "i-force max 2.4l i-4 port/direct injection dohc variable valve gasoline",
+        "standardized_source": "displacement 2.4l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.4L",
+          "api_displacement": "2.4L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.4L ≈ 2.4L）"
+        }
+      },
+      "Transmission": {
+        "local": "8-Speed Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "8-speed automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.4L",
+      "api_displacement": "2.4L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.4L ≈ 2.4L）"
+    }
+  },
+  "JTND4MBE6M3110105": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2021",
+        "source": "2021",
+        "match": true,
+        "standardized_local": "2021",
+        "standardized_source": "2021",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Corolla Hatchback SE",
+        "source": "Corolla",
+        "match": true,
+        "standardized_local": "corolla hatchback se",
+        "standardized_source": "corolla",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.0L I4 gasoline",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.0l i4 gasoline",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Continuously Variable Transmission (CVT)",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "continuously variable transmission cvt",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "4T1BF3EK7BU228703": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2011",
+        "source": "2011",
+        "match": true,
+        "standardized_local": "2011",
+        "standardized_source": "2011",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Camry LE",
+        "source": "Camry",
+        "match": true,
+        "standardized_local": "camry le",
+        "standardized_source": "camry",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.5L I-4 DOHC, variable valve control, regular unleaded gasoline",
+        "source": "Displacement: 2.5L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.5l i-4 dohc variable valve control regular unleaded gasoline",
+        "standardized_source": "displacement 2.5l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.5L",
+          "api_displacement": "2.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.5L ≈ 2.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "6-Speed Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "6-speed automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.5L",
+      "api_displacement": "2.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.5L ≈ 2.5L）"
+    }
+  },
+  "3TMCZ5AN0NM490986": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2022",
+        "source": "2022",
+        "match": true,
+        "standardized_local": "2022",
+        "standardized_source": "2022",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Tacoma SR",
+        "source": "Tacoma",
+        "match": true,
+        "standardized_local": "tacoma sr",
+        "standardized_source": "tacoma",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.5L V6 24V PDI DOHC gasoline",
+        "source": "Displacement: 3.5L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.5l v6 24v pdi dohc gasoline",
+        "standardized_source": "displacement 3.5l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.5L",
+          "api_displacement": "3.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "6-Speed Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "6-speed automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.5L",
+      "api_displacement": "3.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+    }
+  },
+  "JTNKHMBX4L1080223": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2020",
+        "source": "2020",
+        "match": true,
+        "standardized_local": "2020",
+        "standardized_source": "2020",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "C-HR XLE",
+        "source": "C-HR",
+        "match": true,
+        "standardized_local": "c-hr xle",
+        "standardized_source": "c-hr",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.0L I-4 DOHC, VVT-i variable valve control gasoline",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.0l i-4 dohc vvt-i variable valve control gasoline",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Continuously Variable Transmission (CVT)",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "continuously variable transmission cvt",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "4T1BK36BX5U061848": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2005",
+        "source": "2005",
+        "match": true,
+        "standardized_local": "2005",
+        "standardized_source": "2005",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Avalon XL",
+        "source": "Avalon",
+        "match": true,
+        "standardized_local": "avalon xl",
+        "standardized_source": "avalon",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.5L V-6 DOHC, variable valve control, premium unleaded gasoline",
+        "source": "Displacement: 3.5L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.5l v-6 dohc variable valve control premium unleaded gasoline",
+        "standardized_source": "displacement 3.5l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.5L",
+          "api_displacement": "3.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.5L",
+      "api_displacement": "3.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+    }
+  },
+  "1HGCP2F36CA089594": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2012",
+        "source": "2012",
+        "match": true,
+        "standardized_local": "2012",
+        "standardized_source": "2012",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Accord 2.4 LX",
+        "source": "Accord",
+        "match": true,
+        "standardized_local": "accord 2.4 lx",
+        "standardized_source": "accord",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.4L I-4 DOHC, i-VTEC variable valve control, regular unleaded gasoline",
+        "source": "Displacement: 2.4L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.4l i-4 dohc i-vtec variable valve control regular unleaded gasoline",
+        "standardized_source": "displacement 2.4l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.4L",
+          "api_displacement": "2.4L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.4L ≈ 2.4L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.4L",
+      "api_displacement": "2.4L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.4L ≈ 2.4L）"
+    }
+  },
+  "2T1BU4EE9CC779904": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Toyota",
+        "source": "TOYOTA",
+        "match": true,
+        "standardized_local": "toyota",
+        "standardized_source": "toyota",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2012",
+        "source": "2012",
+        "match": true,
+        "standardized_local": "2012",
+        "standardized_source": "2012",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Corolla LE",
+        "source": "Corolla",
+        "match": true,
+        "standardized_local": "corolla le",
+        "standardized_source": "corolla",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "1.8L I-4 DOHC, variable valve control, regular unleaded gasoline",
+        "source": "Displacement: 1.8L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "1.8l i-4 dohc variable valve control regular unleaded gasoline",
+        "standardized_source": "displacement 1.8l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "1.8L",
+          "api_displacement": "1.8L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：1.8L ≈ 1.8L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "1.8L",
+      "api_displacement": "1.8L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：1.8L ≈ 1.8L）"
+    }
+  },
+  "SALYJ2EX2RA385773": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Land Rover",
+        "source": "LAND ROVER",
+        "match": true,
+        "standardized_local": "land rover",
+        "standardized_source": "land rover",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2024",
+        "source": "2024",
+        "match": true,
+        "standardized_local": "2024",
+        "standardized_source": "2024",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Range Rover Velar P250 S",
+        "source": "Range Rover Velar",
+        "match": true,
+        "standardized_local": "range rover velar p250 s",
+        "standardized_source": "range rover velar",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "Ingenium 2.0L I-4 gasoline direct injection, DOHC, variable valve",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "ingenium 2.0l i-4 gasoline direct injection dohc variable valve",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "8-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "8-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "SALGW2RE2NA470242": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Land Rover",
+        "source": "LAND ROVER",
+        "match": true,
+        "standardized_local": "land rover",
+        "standardized_source": "land rover",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2022",
+        "source": "2022",
+        "match": true,
+        "standardized_local": "2022",
+        "standardized_source": "2022",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Range Rover 5.0L V8 Supercharged SV Autobiography",
+        "source": "Range Rover",
+        "match": true,
+        "standardized_local": "range rover 5.0l v8 supercharged sv autobiography",
+        "standardized_source": "range rover",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "5.0L V-8 gasoline direct injection, DOHC, variable valve control",
+        "source": "Displacement: 5.0L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "5.0l v-8 gasoline direct injection dohc variable valve control",
+        "standardized_source": "displacement 5.0l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "5.0L",
+          "api_displacement": "5.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：5.0L ≈ 5.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "ZF 8-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "zf 8-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "5.0L",
+      "api_displacement": "5.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：5.0L ≈ 5.0L）"
+    }
+  },
+  "SALWZ2FEXHA140912": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Land Rover",
+        "source": "LAND ROVER",
+        "match": true,
+        "standardized_local": "land rover",
+        "standardized_source": "land rover",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2017",
+        "source": "2017",
+        "match": true,
+        "standardized_local": "2017",
+        "standardized_source": "2017",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Range Rover Sport 5.0L Supercharged SVR",
+        "source": "Range Rover Sport",
+        "match": true,
+        "standardized_local": "range rover sport 5.0l supercharged svr",
+        "standardized_source": "range rover sport",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "5.0L V8 Supercharged gasoline engine",
+        "source": "Displacement: 5.0L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "5.0l v8 supercharged gasoline engine",
+        "standardized_source": "displacement 5.0l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "5.0L",
+          "api_displacement": "5.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：5.0L ≈ 5.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "5.0L",
+      "api_displacement": "5.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：5.0L ≈ 5.0L）"
+    }
+  },
+  "SALGS2SE5LA573819": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Land Rover",
+        "source": "LAND ROVER",
+        "match": true,
+        "standardized_local": "land rover",
+        "standardized_source": "land rover",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2020",
+        "source": "2020",
+        "match": true,
+        "standardized_local": "2020",
+        "standardized_source": "2020",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Range Rover P525 HSE SWB",
+        "source": "Range Rover",
+        "match": true,
+        "standardized_local": "range rover p525 hse swb",
+        "standardized_source": "range rover",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "5.0L V-8 gasoline direct injection, DOHC, variable valve control",
+        "source": "Displacement: 5.0L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "5.0l v-8 gasoline direct injection dohc variable valve control",
+        "standardized_source": "displacement 5.0l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "5.0L",
+          "api_displacement": "5.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：5.0L ≈ 5.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "5.0L",
+      "api_displacement": "5.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：5.0L ≈ 5.0L）"
+    }
+  },
+  "SALWR2VF2FA611832": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Land Rover",
+        "source": "LAND ROVER",
+        "match": true,
+        "standardized_local": "land rover",
+        "standardized_source": "land rover",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2015",
+        "source": "2015",
+        "match": true,
+        "standardized_local": "2015",
+        "standardized_source": "2015",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Range Rover Sport Supercharged HSE",
+        "source": "Range Rover Sport",
+        "match": true,
+        "standardized_local": "range rover sport supercharged hse",
+        "standardized_source": "range rover sport",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.0L V-6 gasoline direct injection, DOHC, variable valve control",
+        "source": "Displacement: 3.0L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.0l v-6 gasoline direct injection dohc variable valve control",
+        "standardized_source": "displacement 3.0l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.0L",
+          "api_displacement": "3.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.0L ≈ 3.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.0L",
+      "api_displacement": "3.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.0L ≈ 3.0L）"
+    }
+  },
+  "7FARS6H51PE033433": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2023",
+        "source": "2023",
+        "match": true,
+        "standardized_local": "2023",
+        "standardized_source": "2023",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "CR-V Hybrid Sport",
+        "source": "CR-V",
+        "match": true,
+        "standardized_local": "cr-v hybrid sport",
+        "standardized_source": "cr-v",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.0L I-4 gasoline direct injection, DOHC, i-VTEC variable valve control hybrid",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.0l i-4 gasoline direct injection dohc i-vtec variable valve control hybrid",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Electronic Continuously Variable (e-CVT)",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "electronic continuously variable e-cvt",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "2HGFC2F86KH567971": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2019",
+        "source": "2019",
+        "match": true,
+        "standardized_local": "2019",
+        "standardized_source": "2019",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Civic Sport",
+        "source": "Civic",
+        "match": true,
+        "standardized_local": "civic sport",
+        "standardized_source": "civic",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.0L I4 16V MPFI DOHC gasoline",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.0l i4 16v mpfi dohc gasoline",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic CVT",
+        "source": "Continuously Variable Transmission (CVT)",
+        "match": true,
+        "standardized_local": "automatic cvt",
+        "standardized_source": "continuously variable transmission cvt",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "1HGCV1F40JA164862": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2018",
+        "source": "2018",
+        "match": true,
+        "standardized_local": "2018",
+        "standardized_source": "2018",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Accord EX",
+        "source": "Accord",
+        "match": true,
+        "standardized_local": "accord ex",
+        "standardized_source": "accord",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "1.5T I4 DOHC 16V Turbocharged VTEC gasoline",
+        "source": "Displacement: 1.5L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "1.5t i4 dohc 16v turbocharged vtec gasoline",
+        "standardized_source": "displacement 1.5l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "1.5L",
+          "api_displacement": "1.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "CVT",
+        "source": "Continuously Variable Transmission (CVT)",
+        "match": true,
+        "standardized_local": "cvt",
+        "standardized_source": "continuously variable transmission cvt",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "1.5L",
+      "api_displacement": "1.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+    }
+  },
+  "1HGCR3F94HA007552": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2017",
+        "source": "2017",
+        "match": true,
+        "standardized_local": "2017",
+        "standardized_source": "2017",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Accord Touring",
+        "source": "Accord",
+        "match": true,
+        "standardized_local": "accord touring",
+        "standardized_source": "accord",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.5L V6 SOHC i-VTEC 24V gasoline",
+        "source": "Displacement: 3.5L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.5l v6 sohc i-vtec 24v gasoline",
+        "standardized_source": "displacement 3.5l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.5L",
+          "api_displacement": "3.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "6-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "6-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.5L",
+      "api_displacement": "3.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+    }
+  },
+  "JHMZF1D64ES000555": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2014",
+        "source": "2014",
+        "match": true,
+        "standardized_local": "2014",
+        "standardized_source": "2014",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "CR-Z EX",
+        "source": "CR-Z",
+        "match": true,
+        "standardized_local": "cr-z ex",
+        "standardized_source": "cr-z",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "1.5L I4 hybrid gasoline-electric",
+        "source": "Displacement: 1.5L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "1.5l i4 hybrid gasoline-electric",
+        "standardized_source": "displacement 1.5l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "1.5L",
+          "api_displacement": "1.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Continuously Variable Transmission (CVT)",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "continuously variable transmission cvt",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "1.5L",
+      "api_displacement": "1.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+    }
+  },
+  "5FNYG1H47PB003856": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2023",
+        "source": "2023",
+        "match": true,
+        "standardized_local": "2023",
+        "standardized_source": "2023",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Pilot EX-L 8 Passenger",
+        "source": "Pilot",
+        "match": true,
+        "standardized_local": "pilot ex-l 8 passenger",
+        "standardized_source": "pilot",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.5L V-6 regular unleaded gasoline",
+        "source": "Displacement: 3.5L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.5l v-6 regular unleaded gasoline",
+        "standardized_source": "displacement 3.5l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.5L",
+          "api_displacement": "3.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.5L",
+      "api_displacement": "3.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+    }
+  },
+  "JHMAP11471T02341": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2001",
+        "source": "2001",
+        "match": true,
+        "standardized_local": "2001",
+        "standardized_source": "2001",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "S2000 Base",
+        "source": "S2000",
+        "match": true,
+        "standardized_local": "s2000 base",
+        "standardized_source": "s2000",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.0L I-4 DOHC, VTEC variable valve control, premium unleaded gasoline",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.0l i-4 dohc vtec variable valve control premium unleaded gasoline",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Manual",
+        "source": "Manual/Standard",
+        "match": true,
+        "standardized_local": "manual",
+        "standardized_source": "manual/standard",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "2HKRW2H81MH677272": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2021",
+        "source": "2021",
+        "match": true,
+        "standardized_local": "2021",
+        "standardized_source": "2021",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "CR-V EX-L",
+        "source": "CR-V",
+        "match": true,
+        "standardized_local": "cr-v ex-l",
+        "standardized_source": "cr-v",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "1.5L I4 turbo gasoline",
+        "source": "Displacement: 1.5L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "1.5l i4 turbo gasoline",
+        "standardized_source": "displacement 1.5l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "1.5L",
+          "api_displacement": "1.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Continuously Variable Transmission (CVT)",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "continuously variable transmission cvt",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "1.5L",
+      "api_displacement": "1.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+    }
+  },
+  "1HGCP26449A061522": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2009",
+        "source": "2009",
+        "match": true,
+        "standardized_local": "2009",
+        "standardized_source": "2009",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Accord LX-P",
+        "source": "Accord",
+        "match": true,
+        "standardized_local": "accord lx-p",
+        "standardized_source": "accord",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.4L I-4 DOHC, variable valve control, regular unleaded gasoline",
+        "source": "Displacement: 2.4L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.4l i-4 dohc variable valve control regular unleaded gasoline",
+        "standardized_source": "displacement 2.4l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.4L",
+          "api_displacement": "2.4L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.4L ≈ 2.4L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.4L",
+      "api_displacement": "2.4L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.4L ≈ 2.4L）"
+    }
+  },
+  "3HGGK5H50FM783978": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Honda",
+        "source": "HONDA",
+        "match": true,
+        "standardized_local": "honda",
+        "standardized_source": "honda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2015",
+        "source": "2015",
+        "match": true,
+        "standardized_local": "2015",
+        "standardized_source": "2015",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Fit LX",
+        "source": "Fit",
+        "match": true,
+        "standardized_local": "fit lx",
+        "standardized_source": "fit",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "1.5L I4 gasoline",
+        "source": "Displacement: 1.5L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "1.5l i4 gasoline",
+        "standardized_source": "displacement 1.5l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "1.5L",
+          "api_displacement": "1.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Continuously Variable Transmission (CVT)",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "continuously variable transmission cvt",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "1.5L",
+      "api_displacement": "1.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+    }
+  },
+  "1FMSK8DH2PGA50915": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Ford",
+        "source": "FORD",
+        "match": true,
+        "standardized_local": "ford",
+        "standardized_source": "ford",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2023",
+        "source": "2023",
+        "match": true,
+        "standardized_local": "2023",
+        "standardized_source": "2023",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Explorer XLT",
+        "source": "Explorer",
+        "match": true,
+        "standardized_local": "explorer xlt",
+        "standardized_source": "explorer",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "EcoBoost 2.3L I-4 gasoline direct injection, DOHC, variable valve",
+        "source": "Displacement: 2.3L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "ecoboost 2.3l i-4 gasoline direct injection dohc variable valve",
+        "standardized_source": "displacement 2.3l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.3L",
+          "api_displacement": "2.3L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.3L ≈ 2.3L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.3L",
+      "api_displacement": "2.3L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.3L ≈ 2.3L）"
+    }
+  },
+  "1FTMF1ETSEFA49367": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Ford",
+        "source": "FORD",
+        "match": true,
+        "standardized_local": "ford",
+        "standardized_source": "ford",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2014",
+        "source": "2014",
+        "match": true,
+        "standardized_local": "2014",
+        "standardized_source": "2014",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "F-150 FX4",
+        "source": "F-150",
+        "match": true,
+        "standardized_local": "f-150 fx4",
+        "standardized_source": "f-150",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "EcoBoost 3.5L V-6 gasoline direct injection, DOHC, variable valve",
+        "source": "Displacement: 3.5L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "ecoboost 3.5l v-6 gasoline direct injection dohc variable valve",
+        "standardized_source": "displacement 3.5l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.5L",
+          "api_displacement": "3.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.5L",
+      "api_displacement": "3.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.5L ≈ 3.5L）"
+    }
+  },
+  "1FTBW9CKSPKA92552": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Ford",
+        "source": "FORD",
+        "match": true,
+        "standardized_local": "ford",
+        "standardized_source": "ford",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2023",
+        "source": "2023",
+        "match": true,
+        "standardized_local": "2023",
+        "standardized_source": "2023",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "E-Transit",
+        "source": "Transit",
+        "match": true,
+        "standardized_local": "e-transit",
+        "standardized_source": "transit",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "Electric motor",
+        "source": "Fuel Type: Electric",
+        "match": true,
+        "standardized_local": "electric motor",
+        "standardized_source": "fuel type electric",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "electric",
+          "api_fuel": "electric",
+          "local_displacement": "无",
+          "api_displacement": "无",
+          "displacement_error": "无",
+          "reason": "匹配成功（燃料类型：electric，排量：无 ≈ 无）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "electric",
+      "api_fuel": "electric",
+      "local_displacement": "无",
+      "api_displacement": "无",
+      "displacement_error": "无",
+      "reason": "匹配成功（燃料类型：electric，排量：无 ≈ 无）"
+    }
+  },
+  "1FMCU9G67NUB17411": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Ford",
+        "source": "FORD",
+        "match": true,
+        "standardized_local": "ford",
+        "standardized_source": "ford",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2022",
+        "source": "2022",
+        "match": true,
+        "standardized_local": "2022",
+        "standardized_source": "2022",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Escape SE",
+        "source": "Escape",
+        "match": true,
+        "standardized_local": "escape se",
+        "standardized_source": "escape",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "1.5L I3 12V PDI DOHC Turbo gasoline",
+        "source": "Displacement: 1.5L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "1.5l i3 12v pdi dohc turbo gasoline",
+        "standardized_source": "displacement 1.5l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "1.5L",
+          "api_displacement": "1.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "8-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "8-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "1.5L",
+      "api_displacement": "1.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：1.5L ≈ 1.5L）"
+    }
+  },
+  "1FAFP42X54F216958": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Ford",
+        "source": "FORD",
+        "match": true,
+        "standardized_local": "ford",
+        "standardized_source": "ford",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2004",
+        "source": "2004",
+        "match": true,
+        "standardized_local": "2004",
+        "standardized_source": "2004",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Mustang GT",
+        "source": "Mustang",
+        "match": true,
+        "standardized_local": "mustang gt",
+        "standardized_source": "mustang",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "4.6L V-8 regular unleaded gasoline, engine with 260HP",
+        "source": "Displacement: 4.6L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "4.6l v-8 regular unleaded gasoline engine with 260hp",
+        "standardized_source": "displacement 4.6l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "4.6L",
+          "api_displacement": "4.6L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：4.6L ≈ 4.6L）"
+        }
+      },
+      "Transmission": {
+        "local": "Manual",
+        "source": "",
+        "match": true,
+        "standardized_local": "manual",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "4.6L",
+      "api_displacement": "4.6L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：4.6L ≈ 4.6L）"
+    }
+  },
+  "1FMCU9J99HUA37647": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Ford",
+        "source": "FORD",
+        "match": true,
+        "standardized_local": "ford",
+        "standardized_source": "ford",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2017",
+        "source": "2017",
+        "match": true,
+        "standardized_local": "2017",
+        "standardized_source": "2017",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Escape Titanium",
+        "source": "Escape",
+        "match": true,
+        "standardized_local": "escape titanium",
+        "standardized_source": "escape",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.0L I4 turbo gasoline",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.0l i4 turbo gasoline",
+        "standardized_source": "displacement 2.0l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "1GYS4EKLEPR324606": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Cadillac",
+        "source": "CADILLAC",
+        "match": true,
+        "standardized_local": "cadillac",
+        "standardized_source": "cadillac",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2023",
+        "source": "2023",
+        "match": true,
+        "standardized_local": "2023",
+        "standardized_source": "2023",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Escalade Sport",
+        "source": "Escalade",
+        "match": true,
+        "standardized_local": "escalade sport",
+        "standardized_source": "escalade",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "EcoTec3 6.2L V-8 gasoline direct injection, variable valve control",
+        "source": "Displacement: 6.2L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "ecotec3 6.2l v-8 gasoline direct injection variable valve control",
+        "standardized_source": "displacement 6.2l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "6.2L",
+          "api_displacement": "6.2L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：6.2L ≈ 6.2L）"
+        }
+      },
+      "Transmission": {
+        "local": "10-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "10-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "6.2L",
+      "api_displacement": "6.2L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：6.2L ≈ 6.2L）"
+    }
+  },
+  "1G6DH5RL7N0125785": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Cadillac",
+        "source": "CADILLAC",
+        "match": true,
+        "standardized_local": "cadillac",
+        "standardized_source": "cadillac",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2022",
+        "source": "2022",
+        "match": true,
+        "standardized_local": "2022",
+        "standardized_source": "2022",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "CT4-V V-Series",
+        "source": "CT4",
+        "match": true,
+        "standardized_local": "ct4-v v-series",
+        "standardized_source": "ct4",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.7L I4 turbo gasoline",
+        "source": "Displacement: 2.7L; Fuel Type: Gasoline; Config: In-Line",
+        "match": true,
+        "standardized_local": "2.7l i4 turbo gasoline",
+        "standardized_source": "displacement 2.7l; fuel type gasoline; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.7L",
+          "api_displacement": "2.7L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.7L ≈ 2.7L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.7L",
+      "api_displacement": "2.7L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.7L ≈ 2.7L）"
+    }
+  },
+  "1GYKNDRS2JZ207499": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Cadillac",
+        "source": "CADILLAC",
+        "match": true,
+        "standardized_local": "cadillac",
+        "standardized_source": "cadillac",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2018",
+        "source": "2018",
+        "match": true,
+        "standardized_local": "2018",
+        "standardized_source": "2018",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "XT5 Luxury",
+        "source": "XT5",
+        "match": true,
+        "standardized_local": "xt5 luxury",
+        "standardized_source": "xt5",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.6L V6 24V GDI DOHC gasoline",
+        "source": "Displacement: 3.6L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.6l v6 24v gdi dohc gasoline",
+        "standardized_source": "displacement 3.6l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.6L",
+          "api_displacement": "3.6L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.6L ≈ 3.6L）"
+        }
+      },
+      "Transmission": {
+        "local": "8-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "8-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.6L",
+      "api_displacement": "3.6L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.6L ≈ 3.6L）"
+    }
+  },
+  "1GYKPGRS1LZ161310": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Cadillac",
+        "source": "CADILLAC",
+        "match": true,
+        "standardized_local": "cadillac",
+        "standardized_source": "cadillac",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2020",
+        "source": "2020",
+        "match": true,
+        "standardized_local": "2020",
+        "standardized_source": "2020",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "XT6 Sport AWD",
+        "source": "XT6",
+        "match": true,
+        "standardized_local": "xt6 sport awd",
+        "standardized_source": "xt6",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.6L V-6 gasoline direct injection, DOHC, variable valve control",
+        "source": "Displacement: 3.6L; Fuel Type: Gasoline; Config: V-Shaped",
+        "match": true,
+        "standardized_local": "3.6l v-6 gasoline direct injection dohc variable valve control",
+        "standardized_source": "displacement 3.6l; fuel type gasoline; config v-shaped",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.6L",
+          "api_displacement": "3.6L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.6L ≈ 3.6L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.6L",
+      "api_displacement": "3.6L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.6L ≈ 3.6L）"
+    }
+  },
+  "WA1EAAFY3N2117311": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Audi",
+        "source": "AUDI",
+        "match": true,
+        "standardized_local": "audi",
+        "standardized_source": "audi",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2022",
+        "source": "2022",
+        "match": true,
+        "standardized_local": "2022",
+        "standardized_source": "2022",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Q5 45 S line Premium Plus",
+        "source": "Q5",
+        "match": true,
+        "standardized_local": "q5 45 s line premium plus",
+        "standardized_source": "q5",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.0L I-4 gasoline direct injection, DOHC, variable valve control",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline",
+        "match": true,
+        "standardized_local": "2.0l i-4 gasoline direct injection dohc variable valve control",
+        "standardized_source": "displacement 2.0l; fuel type gasoline",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "WAUV2AF26LN032082": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Audi",
+        "source": "AUDI",
+        "match": true,
+        "standardized_local": "audi",
+        "standardized_source": "audi",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2020",
+        "source": "2020",
+        "match": true,
+        "standardized_local": "2020",
+        "standardized_source": "2020",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "A7 Prestige",
+        "source": "A7",
+        "match": true,
+        "standardized_local": "a7 prestige",
+        "standardized_source": "a7",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.0L V6 turbo gasoline",
+        "source": "Displacement: 3.0L; Fuel Type: Gasoline",
+        "match": true,
+        "standardized_local": "3.0l v6 turbo gasoline",
+        "standardized_source": "displacement 3.0l; fuel type gasoline",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.0L",
+          "api_displacement": "3.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.0L ≈ 3.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.0L",
+      "api_displacement": "3.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.0L ≈ 3.0L）"
+    }
+  },
+  "WBA73AP03NCJ71586": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "BMW",
+        "source": "BMW",
+        "match": true,
+        "standardized_local": "bmw",
+        "standardized_source": "bmw",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2022",
+        "source": "2022",
+        "match": true,
+        "standardized_local": "2022",
+        "standardized_source": "2022",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "430i xDrive",
+        "source": "430i",
+        "match": true,
+        "standardized_local": "430i xdrive",
+        "standardized_source": "430i",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "2.0L I4 16V GDI DOHC Turbo gasoline",
+        "source": "Displacement: 2.0L; Fuel Type: Gasoline",
+        "match": true,
+        "standardized_local": "2.0l i4 16v gdi dohc turbo gasoline",
+        "standardized_source": "displacement 2.0l; fuel type gasoline",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "2.0L",
+          "api_displacement": "2.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "8-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "8-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "2.0L",
+      "api_displacement": "2.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.0L ≈ 2.0L）"
+    }
+  },
+  "5UXCR6C00L9B66313": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "BMW",
+        "source": "BMW",
+        "match": true,
+        "standardized_local": "bmw",
+        "standardized_source": "bmw",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2020",
+        "source": "2020",
+        "match": true,
+        "standardized_local": "2020",
+        "standardized_source": "2020",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "X5 xDrive40i",
+        "source": "X5",
+        "match": true,
+        "standardized_local": "x5 xdrive40i",
+        "standardized_source": "x5",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.0L I6 24V GDI DOHC Turbo gasoline",
+        "source": "Displacement: 3.0L; Fuel Type: Gasoline",
+        "match": true,
+        "standardized_local": "3.0l i6 24v gdi dohc turbo gasoline",
+        "standardized_source": "displacement 3.0l; fuel type gasoline",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.0L",
+          "api_displacement": "3.0L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.0L ≈ 3.0L）"
+        }
+      },
+      "Transmission": {
+        "local": "8-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "8-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.0L",
+      "api_displacement": "3.0L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.0L ≈ 3.0L）"
+    }
+  },
+  "WBY1Z6C38H7A39569": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "BMW",
+        "source": "BMW",
+        "match": true,
+        "standardized_local": "bmw",
+        "standardized_source": "bmw",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2017",
+        "source": "2017",
+        "match": true,
+        "standardized_local": "2017",
+        "standardized_source": "2017",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "i3 Deka World",
+        "source": "i3",
+        "match": true,
+        "standardized_local": "i3 deka world",
+        "standardized_source": "i3",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "Electric motor",
+        "source": "Fuel Type: Electric",
+        "match": true,
+        "standardized_local": "electric motor",
+        "standardized_source": "fuel type electric",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "electric",
+          "api_fuel": "electric",
+          "local_displacement": "无",
+          "api_displacement": "无",
+          "displacement_error": "无",
+          "reason": "匹配成功（燃料类型：electric，排量：无 ≈ 无）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "electric",
+      "api_fuel": "electric",
+      "local_displacement": "无",
+      "api_displacement": "无",
+      "displacement_error": "无",
+      "reason": "匹配成功（燃料类型：electric，排量：无 ≈ 无）"
+    }
+  },
+  "7SAYGDED7SF227095": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Tesla",
+        "source": "TESLA",
+        "match": true,
+        "standardized_local": "tesla",
+        "standardized_source": "tesla",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2025",
+        "source": "2025",
+        "match": true,
+        "standardized_local": "2025",
+        "standardized_source": "2025",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Model Y Long Range Dual Motor All-Wheel Drive",
+        "source": "Model Y",
+        "match": true,
+        "standardized_local": "model y long range dual motor all-wheel drive",
+        "standardized_source": "model y",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "Dual electric motors",
+        "source": "Fuel Type: Electric",
+        "match": true,
+        "standardized_local": "dual electric motors",
+        "standardized_source": "fuel type electric",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "electric",
+          "api_fuel": "electric",
+          "local_displacement": "无",
+          "api_displacement": "无",
+          "displacement_error": "无",
+          "reason": "匹配成功（燃料类型：electric，排量：无 ≈ 无）"
+        }
+      },
+      "Transmission": {
+        "local": "1-Speed Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "1-speed automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "electric",
+      "api_fuel": "electric",
+      "local_displacement": "无",
+      "api_displacement": "无",
+      "displacement_error": "无",
+      "reason": "匹配成功（燃料类型：electric，排量：无 ≈ 无）"
+    }
+  },
+  "5YJ3E1EA5LF613923": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Tesla",
+        "source": "TESLA",
+        "match": true,
+        "standardized_local": "tesla",
+        "standardized_source": "tesla",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2020",
+        "source": "2020",
+        "match": true,
+        "standardized_local": "2020",
+        "standardized_source": "2020",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Model 3 Standard Range Plus",
+        "source": "Model 3",
+        "match": true,
+        "standardized_local": "model 3 standard range plus",
+        "standardized_source": "model 3",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "Electric motor",
+        "source": "Fuel Type: Electric",
+        "match": true,
+        "standardized_local": "electric motor",
+        "standardized_source": "fuel type electric",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "electric",
+          "api_fuel": "electric",
+          "local_displacement": "无",
+          "api_displacement": "无",
+          "displacement_error": "无",
+          "reason": "匹配成功（燃料类型：electric，排量：无 ≈ 无）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "electric",
+      "api_fuel": "electric",
+      "local_displacement": "无",
+      "api_displacement": "无",
+      "displacement_error": "无",
+      "reason": "匹配成功（燃料类型：electric，排量：无 ≈ 无）"
+    }
+  },
+  "JM3KKDHAXR1109250": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Mazda",
+        "source": "MAZDA",
+        "match": true,
+        "standardized_local": "mazda",
+        "standardized_source": "mazda",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2024",
+        "source": "2024",
+        "match": true,
+        "standardized_local": "2024",
+        "standardized_source": "2024",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "CX-90 PHEV Premium",
+        "source": "CX-90",
+        "match": true,
+        "standardized_local": "cx-90 phev premium",
+        "standardized_source": "cx-90",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "E-SKYACTIV-G 2.5L variable with electric motor plug-in hybrid,I-4 gasoline/electric direct injection, DOHC",
+        "source": "Displacement: 2.5L; Fuel Type: Electric; Config: In-Line",
+        "match": true,
+        "standardized_local": "e-skyactiv-g 2.5l variable with electric motor plug-in hybridi-4 gasoline/electric direct injection dohc",
+        "standardized_source": "displacement 2.5l; fuel type electric; config in-line",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "electric",
+          "local_displacement": "2.5L",
+          "api_displacement": "2.5L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：2.5L ≈ 2.5L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "electric",
+      "local_displacement": "2.5L",
+      "api_displacement": "2.5L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：2.5L ≈ 2.5L）"
+    }
+  },
+  "1V2BE2CA3PC202011": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Volkswagen",
+        "source": "VOLKSWAGEN",
+        "match": true,
+        "standardized_local": "volkswagen",
+        "standardized_source": "volkswagen",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2023",
+        "source": "2023",
+        "match": true,
+        "standardized_local": "2023",
+        "standardized_source": "2023",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Atlas Cross Sport 3.6L V6 SEL",
+        "source": "Atlas",
+        "match": true,
+        "standardized_local": "atlas cross sport 3.6l v6 sel",
+        "standardized_source": "atlas",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "3.6L V-6 gasoline direct injection, DOHC, variable valve control",
+        "source": "Displacement: 3.6L; Fuel Type: Gasoline",
+        "match": true,
+        "standardized_local": "3.6l v-6 gasoline direct injection dohc variable valve control",
+        "standardized_source": "displacement 3.6l; fuel type gasoline",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "3.6L",
+          "api_displacement": "3.6L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：3.6L ≈ 3.6L）"
+        }
+      },
+      "Transmission": {
+        "local": "Automatic",
+        "source": "Automatic",
+        "match": true,
+        "standardized_local": "automatic",
+        "standardized_source": "automatic",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "3.6L",
+      "api_displacement": "3.6L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：3.6L ≈ 3.6L）"
+    }
+  },
+  "3VWN57BU1KM228084": {
+    "match": true,
+    "match_rate": 100.0,
+    "details": "使用API数据比对5字段，5个匹配，匹配率100.0%",
+    "fields": {
+      "Manufacturer/Make": {
+        "local": "Volkswagen",
+        "source": "VOLKSWAGEN",
+        "match": true,
+        "standardized_local": "volkswagen",
+        "standardized_source": "volkswagen",
+        "mismatch_reason": ""
+      },
+      "Year": {
+        "local": "2019",
+        "source": "2019",
+        "match": true,
+        "standardized_local": "2019",
+        "standardized_source": "2019",
+        "mismatch_reason": ""
+      },
+      "Model": {
+        "local": "Jetta S",
+        "source": "Jetta",
+        "match": true,
+        "standardized_local": "jetta s",
+        "standardized_source": "jetta",
+        "mismatch_reason": ""
+      },
+      "Engine": {
+        "local": "1.4L I4 turbo gasoline",
+        "source": "Displacement: 1.4L; Fuel Type: Gasoline",
+        "match": true,
+        "standardized_local": "1.4l i4 turbo gasoline",
+        "standardized_source": "displacement 1.4l; fuel type gasoline",
+        "mismatch_reason": "",
+        "match_details": {
+          "fuel_type_match": true,
+          "displacement_match": true,
+          "local_fuel": "gasoline",
+          "api_fuel": "gasoline",
+          "local_displacement": "1.4L",
+          "api_displacement": "1.4L",
+          "displacement_error": "0.0L",
+          "reason": "匹配成功（燃料类型：gasoline，排量：1.4L ≈ 1.4L）"
+        }
+      },
+      "Transmission": {
+        "local": "Manual 6-Speed",
+        "source": "Manual/Standard",
+        "match": true,
+        "standardized_local": "manual 6-speed",
+        "standardized_source": "manual/standard",
+        "mismatch_reason": ""
+      }
+    },
+    "match_source": "api",
+    "engine_match_analysis": {
+      "fuel_type_match": true,
+      "displacement_match": true,
+      "local_fuel": "gasoline",
+      "api_fuel": "gasoline",
+      "local_displacement": "1.4L",
+      "api_displacement": "1.4L",
+      "displacement_error": "0.0L",
+      "reason": "匹配成功（燃料类型：gasoline，排量：1.4L ≈ 1.4L）"
+    }
+  }
+}
